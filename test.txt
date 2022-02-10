@@ -1,0 +1,3 @@
+fichier à supprimer
+Modification de test.txt dans la branche branch2
+Je modifie le texte dans Git hub
